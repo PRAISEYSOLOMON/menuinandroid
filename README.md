@@ -101,10 +101,9 @@ In menu/option.xml
 ```
 ## OUTPUT
 
-![327295569-db207fb9-e5b8-4fcb-a802-9288085ac334](https://github.com/PRAISEYSOLOMON/menuinandroid/assets/119394259/057523fa-11a7-4d4e-bdbd-ba4371ce6bc1)
+![328118699-87a0ec59-257c-4612-bef6-98ddd9f87f08](https://github.com/PRAISEYSOLOMON/menuinandroid/assets/119394259/54fa2b89-b3bf-4fcf-8403-380626778f87)
 
-![327295592-51e07fa8-4846-4f52-a211-83ce20326a77](https://github.com/PRAISEYSOLOMON/menuinandroid/assets/119394259/f5586c0c-c6b0-41d6-b2b4-e66f79d561a4)
-
+![328118606-0d5505e7-3bc6-462a-8557-2b0914e0854d](https://github.com/PRAISEYSOLOMON/menuinandroid/assets/119394259/91b42412-7cff-45d1-be3d-b4fc4eed614a)
 
 ## RESULT
 Thus a Simple Android Application to create a option menu to display menu items using Android Studio is developed and executed successfully.
